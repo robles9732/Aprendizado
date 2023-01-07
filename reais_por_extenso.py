@@ -20,7 +20,7 @@ numerais = {
             19: 'dezenove', 
             20: 'vinte', 
             30: 'trinta', 
-            40: 'Quarenta', 
+            40: 'quarenta', 
             50: 'cinquenta', 
             60: 'sessenta', 
             70: 'setenta', 
