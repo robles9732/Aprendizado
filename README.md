@@ -1,3 +1,3 @@
 # Aprendizado
 
-Esapço para pequenos códigos de testes de lógica
+Espaço para pequenos códigos de testes de lógica
